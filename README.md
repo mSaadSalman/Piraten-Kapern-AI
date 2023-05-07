@@ -1,4 +1,4 @@
-# A1 - Piraten Karpen
+# Piraten Karpen - AI
 
   * Author: < Saad Salman >
   * Email: < 28.saadsalman@gmail.com >
