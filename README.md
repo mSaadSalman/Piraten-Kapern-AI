@@ -1,7 +1,7 @@
 # A1 - Piraten Karpen
 
   * Author: < Saad Salman >
-  * Email: < salmam12@mcmaster.ca >
+  * Email: < 28.saadsalman@gmail.com >
 
 ## Build and Execution
 
